@@ -1,0 +1,11 @@
+C:\CP_new\CourseProject\CourseProject\bin\Release\CourseProject.exe.config
+C:\CP_new\CourseProject\CourseProject\bin\Release\CourseProject.exe
+C:\CP_new\CourseProject\CourseProject\bin\Release\CourseProject.pdb
+C:\CP_new\CourseProject\CourseProject\bin\Release\ObjectListView.dll
+C:\CP_new\CourseProject\CourseProject\bin\Release\ObjectListView.pdb
+C:\CP_new\CourseProject\CourseProject\obj\Release\CourseProject.csprojResolveAssemblyReference.cache
+C:\CP_new\CourseProject\CourseProject\obj\Release\CourseProject.Form1.resources
+C:\CP_new\CourseProject\CourseProject\obj\Release\CourseProject.Properties.Resources.resources
+C:\CP_new\CourseProject\CourseProject\obj\Release\CourseProject.csproj.GenerateResource.Cache
+C:\CP_new\CourseProject\CourseProject\obj\Release\CourseProject.exe
+C:\CP_new\CourseProject\CourseProject\obj\Release\CourseProject.pdb
